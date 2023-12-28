@@ -1,3 +1,6 @@
+Hello, My name is Dakota Almeida and I am currently a student pursuing a computer science bachlors degree. I am excited to learn and grow in the tech field.  
+
+
 # Banking Investment tool 
 
 # Summarize the project and what problem it was solving.
